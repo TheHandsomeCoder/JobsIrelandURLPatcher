@@ -4,6 +4,6 @@ A simple chrome extension to add the ID of the Job to the URL. This allows a use
 
 
 
-![Check it out here](https://raw.githubusercontent.com/TheHandsomeCoder/JobsIrelandURLPatcher/master/example.gif)
+![Check it out here](https://raw.githubusercontent.com/TheHandsomeCoder/JobsIrelandURLPatcher/gh-pages/example.gif)
 
 Pull requsets welcome
