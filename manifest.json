@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+
+  "name": "Jobs Ireland Bookmarker",
+  "description": "This extension allows a user to bookmark a job on the new jobs ireland website. The site refresh uses the same URL for all jobs, so this extension will create the URL to a specific job.",
+  "version": "1.0",
+
+
+  "content_scripts": [
+    {
+      "matches": [
+        "*://*.jobsireland.ie/*"
+      ],
+
+      "js": ["script.js"]
+    }
+  ]
+}
